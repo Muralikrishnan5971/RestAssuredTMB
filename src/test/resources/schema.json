@@ -1,0 +1,100 @@
+{
+	"$schema": "http://json-schema.org/draft-04/schema#",
+	"type": "object",
+	"properties": {
+		"email": {
+			"type": "string"
+		},
+		"favfoods": {
+			"type": "object",
+			"properties": {
+				"breakFast": {
+					"type": "string"
+				},
+				"lunch": {
+					"type": "string"
+				},
+				"dinner": {
+					"type": "array",
+					"items": [
+						{
+							"type": "string"
+						},
+						{
+							"type": "string"
+						}
+					]
+				}
+			},
+			"required": [
+				"breakFast",
+				"lunch",
+				"dinner"
+			]
+		},
+		"firstname": {
+			"type": "string"
+		},
+		"id": {
+			"type": "integer"
+		},
+		"jobs": {
+			"type": "array",
+			"items": [
+				{
+					"type": "string"
+				},
+				{
+					"type": "string"
+				}
+			]
+		},
+		"lastname": {
+			"type": "string"
+		},
+		"marks": {
+			"type": "array",
+			"items": [
+				{
+					"type": "object",
+					"properties": {
+						"tamil": {
+							"type": "integer"
+						},
+						"english": {
+							"type": "integer"
+						}
+					},
+					"required": [
+						"tamil",
+						"english"
+					]
+				},
+				{
+					"type": "object",
+					"properties": {
+						"tamil": {
+							"type": "integer"
+						},
+						"english": {
+							"type": "integer"
+						}
+					},
+					"required": [
+						"tamil",
+						"english"
+					]
+				}
+			]
+		}
+	},
+	"required": [
+		"email",
+		"favfoods",
+		"firstname",
+		"id",
+		"jobs",
+		"lastname",
+		"marks"
+	]
+}
