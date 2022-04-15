@@ -8,6 +8,9 @@ import io.restassured.response.Response;
 
 import static io.restassured.RestAssured.*;
 
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 import java.util.concurrent.TimeUnit;
 
 public class GetRequest {
@@ -43,15 +46,34 @@ public class GetRequest {
 	}
 
 	@Test
-	public void getMethodWithQueryParametersTest() {
+	public void getMethodWithQueryParametersTest() throws IOException {
 
 		Response response = given()
-				.queryParam("id", 831)
+//				.queryParam("id", 831)
 				.log()
 				.all()
 				.get("http://localhost:3000/employees");
-				
 
 		response.prettyPrint();
+		
+		// to print our response in an external file
+		
+		Files.write(Paths.get(System.getProperty("user.dir")+"/response.json"), response.asByteArray());
+		
 	}
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

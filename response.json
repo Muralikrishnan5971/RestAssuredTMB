@@ -1,0 +1,817 @@
+[
+    {
+        "id": 1,
+        "firstname": "Murali",
+        "lastname": "Krishnan",
+        "email": "muralikrishnan.pro@gmail.com"
+    },
+    {
+        "id": 2,
+        "firstname": "Jerome",
+        "lastname": "Francis",
+        "email": "er.jerome@gmail.com"
+    },
+    {
+        "id": 3,
+        "firstname": "Mani",
+        "lastname": "Kandan",
+        "email": "luckymanmani@gmail.com"
+    },
+    {
+        "id": 4,
+        "firstname": "Ford",
+        "lastname": "Coppola",
+        "email": "ihatethemeparkmovies@gmail.com"
+    },
+    {
+        "id": 826,
+        "firstname": "Clement",
+        "lastname": "Schmeler",
+        "email": "Katelyn.Dietrich@yahoo.com"
+    },
+    {
+        "id": 978,
+        "firstname": "Yoshiko",
+        "lastname": "Moore",
+        "email": "Annabel38@yahoo.com"
+    },
+    {
+        "id": 712,
+        "firstname": "Josefina",
+        "lastname": "Herzog",
+        "email": "Lonzo_Hammes90@yahoo.com"
+    },
+    {
+        "id": 740,
+        "firstname": "Jaquelin",
+        "lastname": "Pouros",
+        "email": "Lea.Hahn44@yahoo.com"
+    },
+    {
+        "id": 625,
+        "firstname": "Braden",
+        "lastname": "Rutherford",
+        "email": "Nickolas_Altenwerth31@yahoo.com"
+    },
+    {
+        "id": 939,
+        "firstname": "Augustus",
+        "lastname": "Hammes",
+        "email": "Melany49@gmail.com"
+    },
+    {
+        "id": 532,
+        "firstname": "Chaya",
+        "lastname": "Smith",
+        "email": "Richard63@hotmail.com"
+    },
+    {
+        "id": 432,
+        "firstname": "Obie",
+        "lastname": "Doyle",
+        "email": "Lionel45@yahoo.com"
+    },
+    {
+        "id": 220,
+        "firstname": "Mireille",
+        "lastname": "Jenkins",
+        "email": "Enola_Sipes60@hotmail.com"
+    },
+    {
+        "id": 7,
+        "firstname": "Eduardo",
+        "lastname": "Balistreri",
+        "email": "Selena8@yahoo.com"
+    },
+    {
+        "id": 763,
+        "firstname": "Jarvis",
+        "lastname": "Marvin",
+        "email": "Mireille_Rolfson@yahoo.com"
+    },
+    {
+        "id": 155,
+        "firstname": "Oliver",
+        "lastname": "Abernathy",
+        "email": "Lavinia.Kutch@yahoo.com"
+    },
+    {
+        "id": 845,
+        "firstname": "Raheem",
+        "lastname": "Bergstrom",
+        "email": "Jarrod_Hane0@gmail.com"
+    },
+    {
+        "id": 495,
+        "firstname": "Beryl",
+        "lastname": "Wisozk",
+        "email": "Izabella.Ortiz@gmail.com"
+    },
+    {
+        "id": 743,
+        "firstname": "Kody",
+        "lastname": "Reichert",
+        "email": "Clemmie.Gaylord@gmail.com"
+    },
+    {
+        "id": 14,
+        "firstname": "Georgiana",
+        "lastname": "Zieme",
+        "email": "Eddie13@yahoo.com"
+    },
+    {
+        "id": 497,
+        "firstname": "Leda",
+        "lastname": "Fisher",
+        "email": "Jaron_Langworth74@hotmail.com"
+    },
+    {
+        "id": 376,
+        "firstname": "Winona",
+        "lastname": "Kilback",
+        "email": "Brenna.Torp97@gmail.com"
+    },
+    {
+        "id": 361,
+        "firstname": "Carmela",
+        "lastname": "Hamill",
+        "email": "Arvid_Reilly79@hotmail.com"
+    },
+    {
+        "id": 182,
+        "firstname": "Marilie",
+        "lastname": "Okuneva",
+        "email": "Alda27@yahoo.com"
+    },
+    {
+        "id": 96,
+        "firstname": "Karson",
+        "lastname": "Huels",
+        "email": "Jermey.Lang@gmail.com"
+    },
+    {
+        "id": 192,
+        "firstname": "Lucius",
+        "lastname": "Ruecker",
+        "email": "Geraldine47@gmail.com"
+    },
+    {
+        "id": 206,
+        "firstname": "Euna",
+        "lastname": "White",
+        "email": "Everette_Stiedemann92@hotmail.com"
+    },
+    {
+        "id": 215,
+        "firstname": "Rachelle",
+        "lastname": "Prosacco",
+        "email": "Julianne9@hotmail.com"
+    },
+    {
+        "id": 233,
+        "firstname": "Josephine",
+        "lastname": "O'Hara",
+        "email": "Ray14@hotmail.com"
+    },
+    {
+        "id": 979
+    },
+    {
+        "id": 980
+    },
+    {
+        "id": 981
+    },
+    {
+        "id": 982
+    },
+    {
+        "id": 568,
+        "firstname": "murali",
+        "lastname": "krishnan",
+        "email": "testermk@gmail.com"
+    },
+    {
+        "id": 881,
+        "firstname": "clark",
+        "lastname": "kent",
+        "email": "iluvbatman@gmail.com"
+    },
+    {
+        "id": 421,
+        "firstname": "bruce",
+        "lastname": "wayne",
+        "email": "menarebrave@gmail.com"
+    },
+    {
+        "id": 551,
+        "firstname": "thomas",
+        "lastname": "wayne",
+        "email": "menarebrave@gmail.com"
+    },
+    {
+        "id": 180,
+        "firstname": "Aurelio",
+        "lastname": "Bashirian",
+        "email": "Hephaestus@gmail.com"
+    },
+    {
+        "id": 212,
+        "firstname": "Vern",
+        "lastname": "Mertz",
+        "email": "Zeus@gmail.com"
+    },
+    {
+        "id": 774,
+        "firstname": "Valentina",
+        "lastname": "Kassulke",
+        "email": "Poseidon@gmail.com"
+    },
+    {
+        "fname": "Catina",
+        "lname": "McClure",
+        "id": 890,
+        "email": "com.github.javafaker.Artist@287ae90c@gmail.com"
+    },
+    {
+        "fname": "Dora",
+        "lname": "Hodkiewicz",
+        "id": 733,
+        "email": "com.github.javafaker.Artist@287ae90c@gmail.com"
+    },
+    {
+        "fname": "Flossie",
+        "lname": "Wiza",
+        "id": 319,
+        "email": "Picasso@gmail.com"
+    },
+    {
+        "fname": "Timmy",
+        "favFods": {
+            "breakFast": "Fettuccine Alfredo",
+            "lunch": "Greater amberjack",
+            "dinner": [
+                "Lychees",
+                "Cassia Bark"
+            ]
+        },
+        "lname": "Parker",
+        "jobs": [
+            "manual qa",
+            "automation tester"
+        ],
+        "id": 639,
+        "email": "Magritte@gmail.com"
+    },
+    {
+        "fname": "Ariel",
+        "favFods": {
+            "breakFast": "Tacos",
+            "lunch": "Japanese style-chunky omelette",
+            "dinner": [
+                "Nashi Pear",
+                "Cumin Ground"
+            ]
+        },
+        "lname": "Jones",
+        "jobs": [
+            "manual qa",
+            "automation tester"
+        ],
+        "id": 865,
+        "email": "Joan Miro@gmail.com"
+    },
+    {
+        "empty": false,
+        "id": 983
+    },
+    {
+        "fname": "Deangelo",
+        "favFods": {
+            "breakFast": "Peking Duck",
+            "lunch": "Mirugai clam",
+            "dinner": [
+                "Mandarins",
+                "Pot Marjoram"
+            ]
+        },
+        "lname": "Oberbrunner",
+        "jobs": [
+            "manual qa",
+            "automation tester"
+        ],
+        "id": 321,
+        "email": "Dali@gmail.com"
+    },
+    {
+        "fname": "Shavon",
+        "favFods": {
+            "breakFast": "Stinky Tofu",
+            "lunch": "Greater amberjack",
+            "dinner": [
+                "Longan",
+                "Korma Curry Powder"
+            ]
+        },
+        "lname": "Dare",
+        "jobs": [
+            "manual qa",
+            "automation tester"
+        ],
+        "id": 228,
+        "email": [
+            "Bernini@gmail.com",
+            "turtle @gmail.com"
+        ]
+    },
+    {
+        "id": 557,
+        "firstname": "Billy",
+        "lastname": "Batson",
+        "email": "shazam@gmail.com"
+    },
+    {
+        "id": 512,
+        "firstname": "Billy",
+        "lastname": "Batson",
+        "email": "shazam@gmail.com",
+        "favfoods": {
+            "breakFast": "Idly",
+            "lunch": "Rice",
+            "dinner": [
+                "pulka",
+                "milk"
+            ]
+        }
+    },
+    {
+        "id": 124,
+        "firstname": "Billy",
+        "lastname": "Batson",
+        "email": "shazam@gmail.com",
+        "favfoods": {
+            "breakFast": "Idly",
+            "lunch": "Rice",
+            "dinner": [
+                "pulka",
+                "milk"
+            ]
+        },
+        "jobs": [
+            "manual qa",
+            "automation tester"
+        ]
+    },
+    {
+        "id": 614,
+        "firstname": "Alfred",
+        "lastname": "Pennywise",
+        "email": "mylastnameiswayne@gmail.com",
+        "favfoods": {
+            "breakFast": "Idly",
+            "lunch": "Rice",
+            "dinner": [
+                "pulka",
+                "milk"
+            ]
+        },
+        "jobs": [
+            "manual qa",
+            "automation tester"
+        ],
+        "marks": [
+            {
+                "tamil": 72,
+                "english": 78
+            },
+            {
+                "tamil": 94,
+                "english": 85
+            }
+        ]
+    },
+    {
+        "id": 771,
+        "firstname": "Robert",
+        "lastname": "Pattinson",
+        "email": "twilightsucks@gmail.com",
+        "favfoods": {
+            "breakFast": "Idly",
+            "lunch": "Rice",
+            "dinner": [
+                "pulka",
+                "milk"
+            ]
+        },
+        "jobs": [
+            "manual qa",
+            "automation tester"
+        ],
+        "marks": [
+            {
+                "tamil": 72,
+                "english": 78
+            },
+            {
+                "tamil": 94,
+                "english": 85
+            }
+        ]
+    },
+    {
+        "id": 450,
+        "firstname": "Carmon",
+        "email": "Gauguin@gmail.com",
+        "favfoods": {
+            "breakFast": "Idly",
+            "lunch": "Rice",
+            "dinner": [
+                "pulka",
+                "milk"
+            ]
+        },
+        "jobs": [
+            "manual qa",
+            "automation tester"
+        ],
+        "marks": [
+            {
+                "tamil": 72,
+                "english": 78
+            },
+            {
+                "tamil": 94,
+                "english": 85
+            }
+        ]
+    },
+    {
+        "id": 291,
+        "firstname": "Ceola",
+        "lastname": null,
+        "email": "Michelangelo@gmail.com",
+        "favfoods": {
+            "breakFast": "Idly",
+            "lunch": "Rice",
+            "dinner": [
+                "pulka",
+                "milk"
+            ]
+        },
+        "jobs": [
+            "manual qa",
+            "automation tester"
+        ],
+        "marks": [
+            {
+                "tamil": 72,
+                "english": 78
+            },
+            {
+                "tamil": 94,
+                "english": 85
+            }
+        ]
+    },
+    {
+        "firstname": "Commisioner",
+        "lastname": "Gordon",
+        "id": 831
+    },
+    {
+        "email": "Rubens@gmail.com",
+        "favfoods": {
+            "breakFast": "Idly",
+            "lunch": "Rice",
+            "dinner": [
+                "pulka",
+                "milk"
+            ]
+        },
+        "firstname": "Bella",
+        "id": 234,
+        "jobs": [
+            "manual qa",
+            "automation tester"
+        ],
+        "lastname": "Schneider",
+        "marks": [
+            {
+                "tamil": 72,
+                "english": 78
+            },
+            {
+                "tamil": 94,
+                "english": 85
+            }
+        ]
+    },
+    {
+        "email": "Monet@gmail.com",
+        "favfoods": {
+            "breakFast": "Idly",
+            "lunch": "Rice",
+            "dinner": [
+                "pulka",
+                "milk"
+            ]
+        },
+        "firstname": "Gary",
+        "id": 560,
+        "jobs": [
+            "manual qa",
+            "automation tester"
+        ],
+        "lastname": "Durgan",
+        "marks": [
+            {
+                "tamil": 72,
+                "english": 78
+            },
+            {
+                "tamil": 94,
+                "english": 85
+            }
+        ]
+    },
+    {
+        "email": "Kahlo@gmail.com",
+        "favfoods": {
+            "breakFast": "Idly",
+            "lunch": "Rice",
+            "dinner": [
+                "pulka",
+                "milk"
+            ]
+        },
+        "firstname": "Guadalupe",
+        "id": 173,
+        "jobs": [
+            "manual qa",
+            "automation tester"
+        ],
+        "lastname": "Greenholt",
+        "marks": [
+            {
+                "tamil": 72,
+                "english": 78
+            },
+            {
+                "tamil": 94,
+                "english": 85
+            }
+        ]
+    },
+    {
+        "email": "Escher@gmail.com",
+        "favfoods": {
+            "breakFast": "Idly",
+            "lunch": "Rice",
+            "dinner": [
+                "pulka",
+                "milk"
+            ]
+        },
+        "firstname": "Enedina",
+        "id": 470,
+        "jobs": [
+            "manual qa",
+            "automation tester"
+        ],
+        "lastname": "Hilpert",
+        "marks": [
+            {
+                "tamil": 72,
+                "english": 78
+            },
+            {
+                "tamil": 94,
+                "english": 85
+            }
+        ]
+    },
+    {
+        "email": "Picasso@gmail.com",
+        "favfoods": {
+            "breakFast": "Idly",
+            "lunch": "Rice",
+            "dinner": [
+                "pulka",
+                "milk"
+            ]
+        },
+        "firstname": "Josef",
+        "id": 587,
+        "jobs": [
+            "manual qa",
+            "automation tester"
+        ],
+        "lastname": "Sauer",
+        "marks": [
+            {
+                "tamil": 72,
+                "english": 78
+            },
+            {
+                "tamil": 94,
+                "english": 85
+            }
+        ]
+    },
+    {
+        "email": "Durer@gmail.com",
+        "favfoods": {
+            "breakFast": "Idly",
+            "lunch": "Rice",
+            "dinner": [
+                "pulka",
+                "milk"
+            ]
+        },
+        "firstname": "Leland",
+        "id": 709,
+        "jobs": [
+            "manual qa",
+            "automation tester"
+        ],
+        "lastname": "Funk",
+        "marks": [
+            {
+                "tamil": 72,
+                "english": 78
+            },
+            {
+                "tamil": 94,
+                "english": 85
+            }
+        ]
+    },
+    {
+        "email": "Michelangelo@gmail.com",
+        "favfoods": {
+            "breakFast": "Idly",
+            "lunch": "Rice",
+            "dinner": [
+                "pulka",
+                "milk"
+            ]
+        },
+        "firstname": "Jayna",
+        "id": 792,
+        "jobs": [
+            "manual qa",
+            "automation tester"
+        ],
+        "lastname": "Bartoletti",
+        "marks": [
+            {
+                "tamil": 72,
+                "english": 78
+            },
+            {
+                "tamil": 94,
+                "english": 85
+            }
+        ]
+    },
+    {
+        "email": "Kandinsky@gmail.com",
+        "favfoods": {
+            "breakFast": "Idly",
+            "lunch": "Rice",
+            "dinner": [
+                "pulka",
+                "milk"
+            ]
+        },
+        "firstname": "Luella",
+        "id": 986,
+        "jobs": [
+            "manual qa",
+            "automation tester"
+        ],
+        "lastname": "Durgan",
+        "marks": [
+            {
+                "tamil": 72,
+                "english": 78
+            },
+            {
+                "tamil": 94,
+                "english": 85
+            }
+        ]
+    },
+    {
+        "email": "Donatello@gmail.com",
+        "favfoods": {
+            "breakFast": "Idly",
+            "lunch": "Rice",
+            "dinner": [
+                "pulka",
+                "milk"
+            ]
+        },
+        "firstname": "Lissette",
+        "id": 219,
+        "jobs": [
+            "manual qa",
+            "automation tester"
+        ],
+        "lastname": "Herzog",
+        "marks": [
+            {
+                "tamil": 72,
+                "english": 78
+            },
+            {
+                "tamil": 94,
+                "english": 85
+            }
+        ]
+    },
+    {
+        "email": "Magritte@gmail.com",
+        "favfoods": {
+            "breakFast": "Idly",
+            "lunch": "Rice",
+            "dinner": [
+                "pulka",
+                "milk"
+            ]
+        },
+        "firstname": "Omega",
+        "id": 744,
+        "jobs": [
+            "manual qa",
+            "automation tester"
+        ],
+        "lastname": "Conroy",
+        "marks": [
+            {
+                "tamil": 72,
+                "english": 78
+            },
+            {
+                "tamil": 94,
+                "english": 85
+            }
+        ]
+    },
+    {
+        "email": "Gauguin@gmail.com",
+        "favfoods": {
+            "breakFast": "Idly",
+            "lunch": "Rice",
+            "dinner": [
+                "pulka",
+                "milk"
+            ]
+        },
+        "firstname": "Rory",
+        "id": 389,
+        "jobs": [
+            "manual qa",
+            "automation tester"
+        ],
+        "lastname": "Goldner",
+        "marks": [
+            {
+                "tamil": 72,
+                "english": 78
+            },
+            {
+                "tamil": 94,
+                "english": 85
+            }
+        ]
+    },
+    {
+        "email": "Diego Rivera@gmail.com",
+        "favfoods": {
+            "breakFast": "Idly",
+            "lunch": "Rice",
+            "dinner": [
+                "pulka",
+                "milk"
+            ]
+        },
+        "firstname": "Merrie",
+        "id": 290,
+        "jobs": [
+            "manual qa",
+            "automation tester"
+        ],
+        "lastname": "Pollich",
+        "marks": [
+            {
+                "tamil": 72,
+                "english": 78
+            },
+            {
+                "tamil": 94,
+                "english": 85
+            }
+        ]
+    }
+]
